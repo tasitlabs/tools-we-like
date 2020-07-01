@@ -10,7 +10,7 @@
 ### Front end tooling
 
 ##### Mobile
-- [React Native](https://react-native.org/)
+- [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/) to make it easier to iterate on top of React Native
 - [React Navigation](https://reactnavigation.org/)
 
